@@ -1,0 +1,32 @@
+Introduction to Programming
+	What is Programming?
+	A Categorical List of programming languages
+		Language Processors: Assembler, Compiler and Interpreter
+		Programming Language Generations
+			Variables (C,C++,Java)
+			Data Types (C,C++,Java)
+			Operators (C,C++,Java)
+			Control Structures (Conditionals, Loops)
+			Functions and Procedures
+	Functionalities of Computer
+		Accepts data as input.
+		Saves the data/instructions in its memory and utilizes them as and when required.
+		Execute the data and convert it into useful information.
+		Provides the output.
+		Have control over all the above four steps
+	
+	Applications of Computer Fundamentals
+		Software Development
+		Network Administration
+		Cyber Security
+		Data Analysis
+		Artificial Intelligence and Machine Learning
+	Introduction of Software
+		Types of Software
+		Application Software
+		System Software
+		
+	Introduction to Data Structures and Algebra
+		
+	Mathematics
+	Calculus and Linear Algebra

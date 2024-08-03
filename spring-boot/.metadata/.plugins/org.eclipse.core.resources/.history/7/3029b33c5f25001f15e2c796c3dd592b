@@ -1,0 +1,6 @@
+package entities;
+
+@Entitty
+public class User {
+
+}

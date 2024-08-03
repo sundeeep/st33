@@ -1,0 +1,6 @@
+interface Sai
+{
+	interface Nikil
+	{
+	}
+}

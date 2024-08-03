@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-16">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="icon" type="image/x-icon" href="./images/favicon.ico">
+  	<script src="https://cdn.tailwindcss.com"></script>
+  	<script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            clifford: '#da373d',
+          }
+        }
+      }
+    }
+  </script>
+	<title>Form : Banking Application</title>
+</head>
+<body>
+	
+	<form class="flex flex-col gap-3 items-center" action="add">
+		Enter First Number: <input class="outline-2 outline-blue-500 border border-2 rounded-md" type="number" name="numOne"/>
+		Enter Second Number: <input class="outline-2 outline-blue-500 border border-2 rounded-md" type="number" name="numOne"/>
+		<button type="submit">Add Two Numbers</button>
+	</form>
+
+</body>
+</html>

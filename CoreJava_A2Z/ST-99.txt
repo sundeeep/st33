@@ -1,0 +1,10 @@
+Fundamentals  of Computer Programming
+Data Structures and Algorithms
+Computer Architecture and Organisation
+Database Managements Systems
+UI/UX
+Software Engineering
+Theory of Computation
+Specilization -----
+Data Science/Cyber Security/Artificial Intelligence/Big Data Engineering
+Cloud Computing/JFSD/Machine Learning
